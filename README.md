@@ -4,6 +4,14 @@
 
 ---
 
+Package for working with microsoft azure API and loclaise
+
+[Locolaise](https://localise.biz) - Translation Management for Developers
+
+[Microsoft translator](https://www.microsoft.com/en-us/translator/) - Translation API
+
+---
+
 #### Installation
 
 ```
@@ -49,12 +57,6 @@ inputFile
 
 outputDir
 : directory where JSON files located of format of [code language].json (en.json, he.json). In that files is or will be a list of translation like in inputFile file, but with translated _word_.
-
-Package for working with microsoft azure API and loclaise
-
-[Locolaise](https://localise.biz) - Translation Management for Developers
-
-[Microsoft translator](https://www.microsoft.com/en-us/translator/) - Translation API
 
 ### Features
 
